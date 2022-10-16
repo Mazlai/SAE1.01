@@ -70,7 +70,7 @@ effectuée.
 R1.08-ProjOrg.
 - Développer les différentes versions de l’application : R1.01 Dev1.
 - Commenter le code des fonctionnalités / Construire le compte-rendu :
--1.01-Dev1 | R1.02-DevWeb.
+R1.01-Dev1 | R1.02-DevWeb.
 - Savoir s’expliquer et s’exprimer à l’oral : R1.11-Com | R1.12-PPP.
 
 ==== Réussites et difficultés rencontrées :
