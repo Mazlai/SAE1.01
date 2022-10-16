@@ -1,0 +1,16 @@
+------------------------------------------------------------------------
+Ceci est le fichier LISEZMOI (README) du projet.  Décrivez-y votre projet.
+Dites au lecteur (qui ne sait rien du projet) ce qu'il a besoin de savoir.
+Au minimum, remplissez cette description :
+------------------------------------------------------------------------
+
+*TITRE DU PROJET* : Implémentation d'un besoin (SAE1.01)
+*BUT POURSUIVI* : Implémenter un besoin en Java
+*VERSION ou DATE* : 30/10/2021
+*AUTEURS* : Mickaël FERNANDEZ et Tilian HURÉ (4A)
+
+- Projet/Menu.bat permet de compiler et lancer le programme dans un terminale (cmd).
+
+- ListeEtudiants.html et Menu.html regroupent toute la JavaDoc des fonctions utilisées dans les classes correspondantes dans le programme.
+
+- Le fichier "SAE1.01 - Dossier Implémentation d'un besoin.pdf" détail et explique les mécanismes et les fonctionnalités du projet.
