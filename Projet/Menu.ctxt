@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Menu
+comment1.params=pfBorneInf\ pfBorneSup
+comment1.target=int\ saisieIntC(int,\ int)
+comment1.text=\r\n\ Permet\ de\ retourner\ une\ valeur\ entiere\ saisie\ au\ clavier\ comprise\ entre\ pfBorneInf\ et\ pfBorneSup\r\n\ @param\ pfBorneSup\ In\ la\ borne\ sup\r\n\ @param\ pfBorneInf\ In\ la\ borne\ inf\r\n\ @return\ valeur\ entiere\ comprise\ entre\ pfBorneInf\ et\ pfBorneSup\r\n
+comment2.params=pfPromo\ pfNbEtudiants
+comment2.target=void\ tirageEtudiant(java.lang.String[][],\ int)
+comment2.text=\ \r\n\ Traite\ le\ choix\ 1\r\n\ @param\ pfPromo\ IN\ \:\ tableau\ de\ strings\ de\ dimension\ 2\r\n\ @param\ pfNbEtudiants\ IN\ \:\ nombre\ de\ donn\u00E9es\ dans\ le\ tableau\ pfPromo\r\n
+comment3.params=pfTabEtu\ pfEtudiant\ pfNbEtudiants
+comment3.target=boolean\ etuEstPresent(java.lang.String[][],\ java.lang.String[],\ int)
+comment3.text=\ \r\n\ Teste\ si\ un\ \u00E9l\u00E8ve\ fait\ partie\ d'un\ tableau\ d'\u00E9tudiants\ donn\u00E9\r\n\ @param\ pfTabEtu\ IN\ \:\ tableau\ de\ strings\ de\ dimension\ 2\r\n\ @param\ pfEtudiant\ IN\ \:\ tableau\ de\ strings\ de\ dimension\ 1\r\n\ @param\ pfNbEtudiants\ IN\ \:\ nombre\ de\ donn\u00E9es\ dans\ le\ tableau\ pfPromo\r\n\ @return\ vrai\ si\ l'\u00E9tudiant\ est\ pr\u00E9sent\ dans\ la\ promo,\ sinon\ faux\r\n
+comment4.params=pfPromo\ pfNbEtudiants
+comment4.target=java.lang.String[]\ tirerEtuAleatoire(java.lang.String[][],\ int)
+comment4.text=\ \r\n\ Tire\ un\ \u00E9tudiant\ au\ hasard\ dans\ la\ promo\r\n\ @param\ pfPromo\ IN\ \:\ tableau\ de\ strings\ de\ dimension\ 2\r\n\ @param\ pfNbEtudiants\ IN\ \:\ nombre\ de\ donn\u00E9es\ dans\ le\ tableau\ pfPromo\r\n\ @return\ un\ \u00E9tudiant\ correspondant\ aux\ crit\u00E8res\r\n
+comment5.params=pfPromo\ pfNbEtudiants
+comment5.target=void\ saisieEtudiant(java.lang.String[][],\ int)
+comment5.text=\ \r\n\ Teste\ si\ un\ \u00E9tudiant\ est\ dans\ la\ promo\r\n\ @param\ pfPromo\ IN\ \:\ tableau\ de\ strings\ de\ dimension\ 2\r\n\ @param\ pfNbEtudiants\ IN\ \:\ nombre\ de\ donn\u00E9es\ dans\ le\ tableau\ pfPromo\r\n
+comment6.params=pfPromo\ pfNbEtudiants
+comment6.target=void\ testMenu(java.lang.String[][],\ int)
+comment6.text=\ \ \r\n\ Affiche\ le\ menu\ et\ ex\u00E9cute\ les\ choix\r\n\ @param\ pfPromo\ IN\ \:\ tableau\ de\ strings\ de\ dimension\ 2\r\n\ @param\ pfNbEtudiants\ IN\ \:\ nombre\ de\ donn\u00E9es\ dans\ le\ tableau\ pfPromo\r\n
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+comment7.text=\ \ \r\n\ Fonction\ principale\ (appeler\ lors\ de\ l'appel\ de\ la\ classe\ Menu\ avec\ un\ cmd)\r\n\ @param\ args\ IN\ \:\ tableau\ vide\ (puisque\ main\ ne\ traite\ pas\ d'arguments,\ pas\ besoin\ d'en\ renseigner)\r\n
+numComments=8
