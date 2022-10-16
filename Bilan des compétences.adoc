@@ -43,7 +43,7 @@ nécessaires pour le client.
 
 ==== Planification prévisionnelle / réelle des tâches :
 
-- *Temps prévisionnel : 12 heures | Temps réel : 11 heures.*
+- _Temps prévisionnel : 12 heures | Temps réel : 11 heures._
 
 ==== Répartition du travail :
 
