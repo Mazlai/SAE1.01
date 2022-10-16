@@ -1,0 +1,91 @@
+## Bilan des compétences - SAE S1.01 - Implémentation d’un besoin client
+
+=== Bilan technique :
+
+==== Contexte et objectifs :
+
+- _Objectif principal_ : Développer une application en Java permettant la
+création, la modification et la consultation des données d’une entreprise.
+- Développer / documenter les fonctions répondant aux besoins du client.
+- Composer un compte-rendu intégrant les fonctionnalités ainsi que des
+traces des jeux d’essais validant ces fonctionnalités.
+- Savoir s’exprimer aisément et bien expliquer son code à l’oral.
+
+==== Problèmes rencontrés et solutions adoptées :
+
+- Comprendre et analyser l’exigence | Consulter les documents joints ;
+analyse via l’IDE Java BlueJ de l’existant.
+- Organiser les différentes méthodes à implémenter | Prendre la décision
+d’implémenter les fonctionnalités ensemble.
+- Implémenter l’ensemble des besoins (primaires / secondaires) requis | Se
+consacrer aux cours de Dev1 (abrégé pour “Les bases”).
+- Rédiger un compte-rendu récapitulatif | Utiliser Google Docs (Git).
+- Commenter le code réalisé | Réutiliser les méthodes exploitées en
+communication ainsi qu’en PPP.
+
+==== Objectifs et résultats :
+
+- ✓ Comprendre et implémenter le besoin primaire et secondaire, sur
+demande du client.
+- ✓ Construire un compte-rendu fortement apprécié.
+- ✓ Convaincre et présenter le code réalisé à l’oral.
+
+=== Bilan du travail d’équipe :
+
+==== Relations et fonctionnement de l’équipe :
+
+- _Accord au sein de l’équipe_ : Communiquer, être ponctuel et attentif.
+- Utilisation de Discord pour échanger sur la rédaction du compte-rendu.
+- Utilisation de Google Docs en tant que support pour le compte-rendu.
+- Utilisation de Figma pour modéliser le fonctionnement des programmes.
+- Utilisation de BlueJ (IDE Java) pour implémenter les différents besoins
+nécessaires pour le client.
+
+==== Planification prévisionnelle / réelle des tâches :
+
+- *Temps prévisionnel : 12 heures | Temps réel : 11 heures.*
+
+==== Répartition du travail :
+
+- Comprendre la demande du client | 2 membres.
+- Implémenter les deux versions de l’application | 2 membres.
+- Documenter les fonctionnalités, liées à l’application | 2 membres.
+- Rédiger le compte-rendu final | 1 membre chacun selon la répartition
+effectuée.
+
+=== Bilan de compétences personnelles :
+
+==== Place occupée / tâches prises en charge :
+
+- Réaliser les maquettes des mécanismes des fonctionnalités via Figma.
+- Rédiger les fonctionnalités et les traces d’exécution de l’application.
+- *Les deux membres ont effectué les tâches de manière équitable :*
+- Interpréter et analyser la demande du client et de son existant.
+- Implémenter les besoins primaires / secondaires de l’application.
+
+==== Rapport entre les ressources et compétences :
+
+- Discerner la demande / l’existant du client : R1.08-ProjOrg | R1.01 Dev1.
+- Avoir une répartition des tâches la mieux adaptée en vue du contexte :
+R1.08-ProjOrg.
+- Développer les différentes versions de l’application : R1.01 Dev1.
+- Commenter le code des fonctionnalités / Construire le compte-rendu :
+-1.01-Dev1 | R1.02-DevWeb.
+- Savoir s’expliquer et s’exprimer à l’oral : R1.11-Com | R1.12-PPP.
+
+==== Réussites et difficultés rencontrées :
+
+===== Réussites :
+
+- Compréhension du besoin et communication au sein du groupe très
+convenable.
+- Amélioration en compréhension grâce à un partenaire désireux de
+transmettre ses connaissances et son savoir.
+- Réussite collective des objectifs à atteindre.
+
+===== Difficultés :
+
+- Difficulté d’implémenter individuellement certaines fonctionnalités
+demandées (notamment pour la deuxième version de l’application).
+- Trouver une répartition des tâches mieux adaptée et efficace afin de
+s’assurer de rendre le travail à temps.
